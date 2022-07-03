@@ -11,4 +11,5 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nerdpanda)](https://github.com/anuraghazra/github-readme-stats)
 
+Im web developer
 
